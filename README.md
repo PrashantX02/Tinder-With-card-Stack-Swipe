@@ -13,3 +13,5 @@ This repository demonstrates an advanced integration of the CardStackView librar
     <img src="https://github.com/PrashantX02/Tinder-With-card-Stack-Swipe/blob/main/tinder_7.png" alt="Image 7" width="100" style="margin-right: 10px;">
 </div>
 
+# Dependency used : 
+com.yuyakaido.android:card-stack-view:2.3.4
