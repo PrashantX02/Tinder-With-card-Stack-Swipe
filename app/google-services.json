@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948966967055",
+    "project_id": "verification-e898b",
+    "storage_bucket": "verification-e898b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948966967055:android:5c305fef5a4d5a5b09207a",
+        "android_client_info": {
+          "package_name": "com.example.tinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVDpRWIwmyD3VlWopUM47wgRq1zmYxJJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948966967055:android:95c54804d390dfee09207a",
+        "android_client_info": {
+          "package_name": "com.example.verification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVDpRWIwmyD3VlWopUM47wgRq1zmYxJJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

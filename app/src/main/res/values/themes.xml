@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tinder" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/white</item>
+
+    </style>
+
+    <style name="registration" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/background_orange</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="home_log" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/background_orange</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:backgroundTint">@color/white</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+</resources>
